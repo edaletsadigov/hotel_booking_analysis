@@ -4,7 +4,7 @@ This document explains how the analysis notebook is built: what each section doe
 
 - **Notebook:** [`hotel_bookings.ipynb`](../hotel_bookings.ipynb) (123 cells: 76 code, 47 markdown; all outputs and charts included)
 - **Input:** `hotel_bookings.csv` (see [Dataset Guide](DATASET_README.md)), read with a relative path, so the file must sit **next to the notebook**
-- **Output:** tables, 9 charts ([gallery](../charts/README.md)), statistical tests and a written summary with business recommendations
+- **Output:** tables, 9 charts ([gallery](../charts/readme.md)), statistical tests and a written summary with business recommendations
 
 ## How to run
 
